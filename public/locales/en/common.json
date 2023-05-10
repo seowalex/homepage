@@ -1007,5 +1007,11 @@
         "issues": "Issues",
         "merges": "Merge Requests",
         "projects": "Projects"
+    },
+    "shoko": {
+        "series": "TV Series",
+        "movies": "Movies",
+        "ovas": "OVAs",
+        "others": "Others"
     }
 }

@@ -939,5 +939,11 @@
       "average": "Average",
       "high": "High",
       "disaster": "Disaster"
+    },
+    "shoko": {
+        "series": "TV Series",
+        "movies": "Movies",
+        "ovas": "OVAs",
+        "others": "Others"
     }
 }

@@ -1030,5 +1030,11 @@
         "highlights": "Highlights",
         "lists": "Lists",
         "tags": "Tags"
+    },
+    "shoko": {
+        "series": "TV Series",
+        "movies": "Movies",
+        "ovas": "OVAs",
+        "others": "Others"
     }
 }

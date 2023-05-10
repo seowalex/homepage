@@ -911,5 +911,11 @@
         "movies": "Movies",
         "ovas": "OVAs",
         "others": "Others"
+    },
+    "seafile": {
+        "users": "Users",
+        "groups": "Groups",
+        "libraries": "Libraries",
+        "storage": "Storage"
     }
 }

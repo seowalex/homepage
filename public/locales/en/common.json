@@ -888,5 +888,11 @@
         "auth": "With Auth",
         "outdated": "Outdated",
         "banned": "Banned"
+    },
+    "shoko": {
+        "series": "TV Series",
+        "movies": "Movies",
+        "ovas": "OVAs",
+        "others": "Others"
     }
 }

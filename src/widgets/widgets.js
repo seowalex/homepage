@@ -104,6 +104,7 @@ import readarr from "./readarr/widget";
 import rutorrent from "./rutorrent/widget";
 import sabnzbd from "./sabnzbd/widget";
 import scrutiny from "./scrutiny/widget";
+import seafile from "./seafile/widget";
 import shoko from "./shoko/widget";
 import sonarr from "./sonarr/widget";
 import speedtest from "./speedtest/widget";
@@ -245,6 +246,7 @@ const widgets = {
   rutorrent,
   sabnzbd,
   scrutiny,
+  seafile,
   shoko,
   sonarr,
   speedtest,

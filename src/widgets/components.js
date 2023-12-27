@@ -62,6 +62,7 @@ const components = {
   mjpeg: dynamic(() => import("./mjpeg/component")),
   moonraker: dynamic(() => import("./moonraker/component")),
   mylar: dynamic(() => import("./mylar/component")),
+  n8n: dynamic(() => import("./n8n/component")),
   navidrome: dynamic(() => import("./navidrome/component")),
   netalertx: dynamic(() => import("./netalertx/component")),
   netdata: dynamic(() => import("./netdata/component")),

@@ -900,5 +900,9 @@
         "groups": "Groups",
         "libraries": "Libraries",
         "storage": "Storage"
+    },
+    "n8n": {
+        "active": "Active",
+        "inactive": "Inactive"
     }
 }

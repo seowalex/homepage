@@ -90,6 +90,8 @@ export default async function credentialedProxyHandler(req, res, map) {
         }
       } else if (widget.type === "wgeasy") {
         headers.Authorization = widget.password;
+      } else if (widget.type === "n8n") {
+        headers["X-N8N-API-KEY"] = `${widget.key}`;
       } else {
         headers["X-API-Key"] = `${widget.key}`;
       }
